@@ -10,7 +10,7 @@ title: Clash Royale Arena
 email: admin@clashroyalearena.site
 description: > # this means to ignore newlines until "baseurl:"
   Clash Royale Arena is a blog dedicated to bringing you the best deck combinations for every arena in Clash Royale Game.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.clashroyalearena.site" # the base hostname & protocol for your site
 twitter_username: sjbuzzika
 github_username:  satyawrat
