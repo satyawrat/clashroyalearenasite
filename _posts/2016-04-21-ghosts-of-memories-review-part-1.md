@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Ghosts Of Memories Game Review (Part 1)
-slug: "ghosts-of-memories-review-part-1"
 permalink: "/:slug"
 published: true
 ---
