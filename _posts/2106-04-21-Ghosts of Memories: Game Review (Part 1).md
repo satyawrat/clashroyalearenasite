@@ -1,4 +1,8 @@
-
+---
+layout: post
+title: Ghosts Of Memories Game Review (Part 1)
+permalink: ghosts-of-memories-review-part-1
+---
 
 **Hi everyone.**
 Today I'm going to be telling you about a new puzzle game. Now it's just gone into beta and I'll be telling you at the end of the video how to sign up for the beta and the game will officially be launched mid-october. 
