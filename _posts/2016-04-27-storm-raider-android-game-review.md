@@ -4,7 +4,7 @@ title: Storm Raiders Android Game Review
 permalink: "/:slug"
 published: true
 ---
-![Sky Gambler's Storm Raider](/images/storm-raider.jpg){: .center-image }
+![Sky Gambler's Storm Raider](/images/storm-raiders.jpg){: .center-image }
 **Hi everyone**, so today we're taking a look at Sky Gamblers Storm Raiders, a World War Two themed aerial combat game, basically dogfighting, featuring some best graphics I think I've seen on an Android device this year. 
 
 ## Solid Gameplay With Realistic Backdrop
