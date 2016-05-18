@@ -6,7 +6,7 @@ permalink: "/:slug"
 published: true
 ---
 
-![Game Of Memories Banner](http://sbenny.com/images/androidgameimage_ghi/sbenny.com_Ghosts_of_Memories.jpg){: .center-image }
+![Game Of Memories Banner](http://sbenny.com/images/androidgameimage_ghi/sbenny.com_Ghosts_of_Memories.jpg)
 
 **Hi everyone.**
 Today I'm going to be telling you about a new puzzle game. Now it's just gone into beta and I'll be telling you at the end of the video how to sign up for the beta and the game will officially be launched mid-october. 
